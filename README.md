@@ -21,10 +21,15 @@ Here are some photos of my laptop:
 <img src="https://p1-ofp.static.pub/fes/cms/2022/03/21/lrhefqahcnl93ijhx0xbpuieau6acx709694.png"  width="300"/>
 <img src="https://laptopmedia.com/wp-content/uploads/2021/02/2-8.jpg"  width="300"/>
 
+
 ## Video Review
 
 I've also prepared a video review of my laptop model. You can watch it via the link below:
 
-[Watch the Video Review](https://www.youtube.com/watch?v=cujZDaRquOA)
+[Watch the Video Review ](https://www.youtube.com/watch?v=cujZDaRquOA)
+
+[![](https://i.ytimg.com/vi/cujZDaRquOA/hqdefault.jpg?sqp=-oaymwFDCOADEI4CSFryq4qpAzUIARUAAIhCGAHYAQHiAQwIFhACGAYgATgBQAHwAQH4Af4JgALQBYoCDAgAEAEYSiBDKGUwDw==&rs=AOn4CLB2Me-MwK09_MQMRVa7G3GXdP-4lA "Side View of My Laptop")
+](https://www.youtube.com/watch?v=cujZDaRquOA)
+
 
 ---
