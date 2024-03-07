@@ -18,8 +18,11 @@ My laptop is a ThinkPad E15 gen 2, and here are its key specifications:
 
 Here are some photos of my laptop:
 
+
+<p>
 <img src="https://p1-ofp.static.pub/fes/cms/2022/03/21/lrhefqahcnl93ijhx0xbpuieau6acx709694.png"  width="300"/>
 <img src="https://laptopmedia.com/wp-content/uploads/2021/02/2-8.jpg"  width="300"/>
+</p>
 
 
 ## Video Review
